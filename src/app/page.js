@@ -1,34 +1,22 @@
 import Navbar from "./components/navbar.jsx";
-
-
-
+import Team from "./components/team.jsx";
+import Features from "./components/features.jsx";
+import Gallery from "./components/gallery.jsx";
+import Start from "./components/home.jsx";
 export default function Home() {
   return (
    <div className="flex flex-col bg-red w-screen h-screen bg-fixed">
     <div className = " bg-gray-900 text-white">
-    <Navbar/> </div>
+      <Navbar/> 
+    </div>
+    <div class="flex flex-col items-center justify-center h-screen bg-cover bg-no-repeat bg-center">
+      <Start/>
+      <Features/>
+      <Gallery/>
+      <Team/>
+    </div>
 
-     <section id="home" >
-        <h1>Welcome to My Game</h1>
-      </section>
-
-      <section id="features" >
-        <h2>Features</h2>
-        <p>Cool mechanics, great graphics, etc.</p>
-      </section>
-
-      <section id="gameplay" >
-        <h2>Gameplay</h2>
-        <p>Here's how the game works...</p>
-      </section>
-
-      <section id="team" >
-        <h2>The team behind Wrecked</h2>
-        <p></p>
-      </section>
-
-
-
+  
    </div>
   );
 }
