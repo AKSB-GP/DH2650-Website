@@ -17,7 +17,7 @@ const Memberprofile = ({ member }) => {
           <h1 className="text-3xl font-bold text-center rounded-xl py-2">
             {member.name}
           </h1>
-          <ol className="flex flex-wrap text-center rounded-x ">
+          <ol className="flex flex-wrap text-center rounded-x justify-center">
             {member.responsibilities.map((responsibility, index) => (
               <li key={index}>
                 <div className="rounded-lg px-2 mx-1 py-1 shadow-lg bg-gray-700">
