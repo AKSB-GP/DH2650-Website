@@ -2,7 +2,6 @@ import Navbar from "./components/navbar.jsx";
 import {TeamSection} from "./components/team.jsx";
 import About from "./components/about.jsx";
 import features from "../app/features.json"; 
-//import Gallery from "./components/gallery.jsx";
 import Start from "./components/home.jsx";
 import data from "../app/data.json";
 import Features from "./components/features.jsx";

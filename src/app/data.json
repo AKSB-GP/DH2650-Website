@@ -14,69 +14,68 @@
         "width": 300,
         "height": 300
       },
-      "desc": "I worked on ....",
+      "desc": "My primary responsibilities were implementing the player controller, creating, animating and implementing assets such as the characters and creating the website",
       "socials": {
-        "Linkedin": "https://www.linkedin.com/in/alexander--kazakov/",
-        "Github": "https://github.com/AKSB-GP"
+        "Linkedin": {"url":"https://www.linkedin.com/in/alexander--kazakov/","logo":"/linkedin.svg"},
+        "Github": {"url":"https://github.com/AKSB-GP","logo":"/github.svg"}
       }
-    },{
+    }, {
       "name": "Alexander Kazakov2",
       "responsibilities": [
         "Game Developer",
+        "Web developer",
         "Art",
-        "Animation",
-        "Game design"
+        "Animation"
       ],
       "image": {
-        "src": "/Images/AK_profilepic.jpeg",
+        "src": "/AK_profilepic.jpeg",
         "alt": "Alexander Kazakov",
         "width": 300,
         "height": 300
       },
-      "desc": "I worked on ....",
+      "desc": "My primary responsibilities were implementing the player controller, creating, animating and implementing assets such as the characters and creating the website",
       "socials": {
-        "Linkedin": "https://www.linkedin.com/in/alexander--kazakov/",
-        "Github": "https://github.com/AKSB-GP"
+        "Linkedin": {"url":"https://www.linkedin.com/in/alexander--kazakov/","logo":"/linkedin.svg"},
+        "Github": {"url":"https://github.com/AKSB-GP","logo":"/github.svg"}
       }
     },
-    {
+     {
       "name": "Alexander Kazakov3",
       "responsibilities": [
         "Game Developer",
+        "Web developer",
         "Art",
-        "Animation",
-        "Game design"
+        "Animation"
       ],
       "image": {
-        "src": "/Images/AK_profilepic.jpeg",
+        "src": "/AK_profilepic.jpeg",
         "alt": "Alexander Kazakov",
         "width": 300,
         "height": 300
       },
-      "desc": "I worked on ....",
+      "desc": "My primary responsibilities were implementing the player controller, creating, animating and implementing assets such as the characters and creating the website",
       "socials": {
-        "Linkedin": "https://www.linkedin.com/in/alexander--kazakov/",
-        "Github": "https://github.com/AKSB-GP"
+        "Linkedin": {"url":"https://www.linkedin.com/in/alexander--kazakov/","logo":"/linkedin.svg"},
+        "Github": {"url":"https://github.com/AKSB-GP","logo":"/github.svg"}
       }
-    },
-    {
-      "name": "Alexander Kazakov4",
+    }, {
+      "name": "Alexander Kazakov",
       "responsibilities": [
         "Game Developer",
+        "Web developer",
         "Art",
-        "Animation",
-        "Game design"
+        "Animation"
       ],
       "image": {
-        "src": "/Images/AK_profilepic.jpeg",
+        "src": "/AK_profilepic.jpeg",
         "alt": "Alexander Kazakov",
         "width": 300,
         "height": 300
       },
-      "desc": "I worked on ....",
+      "desc": "My primary responsibilities were implementing the player controller, creating, animating and implementing assets such as the characters and creating the website",
       "socials": {
-        "Linkedin": "https://www.linkedin.com/in/alexander--kazakov/",
-        "Github": "https://github.com/AKSB-GP"
+        "Linkedin": {"url":"https://www.linkedin.com/in/alexander--kazakov/","logo":"/linkedin.svg"},
+        "Github": {"url":"https://github.com/AKSB-GP","logo":"/github.svg"}
       }
     }
   ]

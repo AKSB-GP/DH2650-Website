@@ -7,7 +7,7 @@ const Features = ({Features}) => {
       id="features"
       className="min-h-screen flex flex-col items-center w-screen relative snap-top"
     >
-      <h1 className="text-[60px] text-center font-bold text-white  bg-gray-800 w-screen relative z-10">
+      <h1 className="text-[60px] text-center font-bold text-white  bg-gray-900 w-screen relative z-10">
         Features
       </h1>
       <div className="flex flex-col text-xl text-center text-white items-center w-screen h-screen relative">
