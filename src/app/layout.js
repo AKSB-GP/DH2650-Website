@@ -1,4 +1,6 @@
 import { Geist, Geist_Mono } from "next/font/google";
+import { Pirata_One } from 'next/font/google'
+
 import "./globals.css";
 
 const geistSans = Geist({
@@ -11,6 +13,14 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
+// const Pirata_One = Pirata_One({
+//   variable: "--font-pirata_one",
+//   weight: "400",
+//   subsets: ["latin"],
+// });
+
+
+
 export const metadata = {
   title: "Wrecked",
   description: "The website for Wrecked, a game designed during the DH2650 game design course at KTH.",
@@ -20,7 +30,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
+        className={`${geistSans.variable} ${geistMono.variable} antialiased `}
       >
         {children}
       </body>
