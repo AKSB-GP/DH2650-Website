@@ -4,8 +4,8 @@ import Link from "next/link";
 
 const Memberprofile = ({ member }) => {
   return (
-    <div className="m-1 ">
-      <div className="flex flex-col bg-gray-900 rounded-lg items-center text-white">
+    <div className="m-1 px-2">
+      <div className="flex flex-col bg-gray-900 rounded-lg items-center text-white py-6">
         <Image
           className="rounded-full"
           src={member.image.src}

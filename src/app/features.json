@@ -1,0 +1,18 @@
+{
+  "features": [
+    {
+      "Items": {
+        "logo": "/barrel_gold.png",
+        "desc": "From bottles of rum to parrots, our game has items which provide fun and chaotic gameplay! Our items are focused on   "
+      },
+      "Split-screen":{
+        "logo": "/barrel_gold.png",
+        "desc": "Enjoy the local split screen multiplayer experience with up to 4 players! Grab a controller and enjoy the chaos together!"
+      },
+       "Procedural-levels":{
+        "logo": "/barrel_gold.png",
+        "desc": "Our levels are procedurally generated, making each experience unique and varied. The system is also flexible, allowing for the difficulty of the level to be adjusted."
+      }
+    }
+  ]
+}

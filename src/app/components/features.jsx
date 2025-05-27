@@ -1,6 +1,7 @@
 
 import FeatureComponent from "./featurecomponent";
-const Features = ({Features}) => {
+import Memberprofile from "./memberprofile";
+const Features = ({Features,Member}) => {
 
   return (
 <section
@@ -11,13 +12,11 @@ const Features = ({Features}) => {
         Features
       </h1>
       <div className="flex flex-col text-xl text-center text-white items-center w-screen h-screen relative">
-        <div className="absolute inset-0 bg-black opacity-80  z-0"></div>
-        <div className="relative z-10 w-full flex flex-col items-center">
-          <div className="flex flex-wrap justify-center  items-center">
-        <FeatureComponent features={Features}/>
-         </div>
+          <div className="flex flex-wrap justify-center items-center z-10">
+          <FeatureComponent features={Features}/>
         </div>
       </div>
+      <div className="absolute inset-0 bg-black opacity-80 z-0"></div>
     </section>
   );
 };
