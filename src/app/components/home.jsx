@@ -2,7 +2,8 @@ const Start = () => {
   return (
     <>
       <section id="home">
-        <h1>Welcome to My Game</h1>
+        <h1>Wrecked</h1>
+        <p></p>
       </section>
     </>
   );
