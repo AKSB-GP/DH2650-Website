@@ -8,7 +8,7 @@ import data from "../app/data.json";
 import Features from "./components/features.jsx";
 export default function Home() {
   return (
-<div className="flex flex-col bg-[url(/wrecked.png)] bg-cover bg-center bg-fixed w-screen  min-h-screen text-white snap-x">
+<div className="flex flex-col bg-[url(/wrecked.png)] bg-cover bg-center bg-fixed w-screen min-h-screen text-white ">
     <Navbar/> 
   <div className="flex flex-col items-center justify-center ">
     <Start/>
