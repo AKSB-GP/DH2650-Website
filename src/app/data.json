@@ -11,10 +11,10 @@
         "Game design"
       ],
       "image": {
-        "src": "/Images/AK_profilepic.jpeg",
+        "src": "/AK_profilepic.jpeg",
         "alt": "Alexander Kazakov",
-        "width": 400,
-        "height": 400
+        "width": 300,
+        "height": 300
       },
       "desc": "I worked on ....",
       "socials": {
@@ -34,8 +34,8 @@
       "image": {
         "src": "/Images/AK_profilepic.jpeg",
         "alt": "Alexander Kazakov",
-        "width": 400,
-        "height": 400
+        "width": 300,
+        "height": 300
       },
       "desc": "I worked on ....",
       "socials": {
@@ -56,8 +56,8 @@
       "image": {
         "src": "/Images/AK_profilepic.jpeg",
         "alt": "Alexander Kazakov",
-        "width": 400,
-        "height": 400
+        "width": 300,
+        "height": 300
       },
       "desc": "I worked on ....",
       "socials": {
@@ -78,8 +78,8 @@
       "image": {
         "src": "/Images/AK_profilepic.jpeg",
         "alt": "Alexander Kazakov",
-        "width": 400,
-        "height": 400
+        "width": 300,
+        "height": 300
       },
       "desc": "I worked on ....",
       "socials": {

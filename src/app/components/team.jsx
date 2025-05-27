@@ -6,7 +6,7 @@ export const TeamSection = ({ TeamData }) => {
       <section id="team">
         <h1>The team</h1>
         <p> Our team wanted to create .....</p>
-        <div className="flex flex-wrap justify-center">
+        <div className="flex flex-wrap justify-center justify-between items-center">
           {TeamData.members.map((member, index) => (
             <MemberProfile key={index} member={member}></MemberProfile>
           ))}
