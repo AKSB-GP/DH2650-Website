@@ -11,9 +11,9 @@ const About = () => {
       <h1 className="text-[60px] text-center font-bold text-white  bg-gray-900 w-screen relative z-10 font-header">
         About Wrecked
       </h1>
-      <div className="flex flex-col text-xl text-center text-white items-center w-screen h-screen relative ">
+      <div className="flex flex-col text-xl text-center text-white items-center w-screen h-screen relative">
         <div className="absolute inset-0 bg-black opacity-80 z-0"></div>
-        <div className="relative z-10 w-full flex flex-col items-center">
+        <div className="relative z-10 w-full flex flex-col items-center  justify-around h-full">
           <p className="py-4">
             Around the coast of Skull Island lies a curse. Legends say that
             ships in the area mysteriously capsize and that when the crewmates
@@ -34,8 +34,8 @@ const About = () => {
             curse? Or will they be dragged to the depths by the thousands of
             previous pirates who have already succumbed to the depths?
           </p>
-          <div>
-            <Image src={playerviewimage} alt="player view" />
+          <div className="">
+            <Image src={playerviewimage} alt="player view" className="w-full rounded-lg shadow-lg border-solid border-2"/>
             <p className="pt-4">
               Our game is a local split-screen 3D-platformer party game set in
               an adventurous world full of treasure and pirates!

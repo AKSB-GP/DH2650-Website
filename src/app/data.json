@@ -3,7 +3,7 @@
     {
       "name": "Alexander Kazakov",
       "responsibilities": [
-        "Game Developer",
+        "Gameplay Programmer",
         "Web developer",
         "Art",
         "Animation"
@@ -22,21 +22,18 @@
     }, {
       "name": "Alvar Trojenborg",
       "responsibilities": [
-        "Game Developer",
-        "Web developer",
-        "Art",
-        "Animation"
+       "Gameplay Programmer", "Game Flow Designer", "UI Designer", "Multiplayer System Developer"
       ],
       "image": {
-        "src": "/",
-        "alt": "Alexander Kazakov",
+        "src": "/AT_profilepic.webp",
+        "alt": "Alvar Trojenborg",
         "width": 250,
         "height": 250
       },
-      "desc": "My primary responsibilities were implementing the player controller, creating, animating and implementing assets such as the characters and creating the website",
+      "desc": "My main responsibilities included implementing and designing the game-loop (how the game progresses) and creating slick and informative HUD/UI text and menu elements on screen. Handling the main game-loop required a broader perspective on the project and understanding how each part interacted with each other. Furthermore I was also responsible for the  kill zone/respawning and the 4 player split screen functionality. What's more, I ideated many of the item functionalities and got the pleasure to help Sofia with implementing a few of the items. Finally, I also contributed with key concept art.",
       "socials": {
-        "Linkedin": {"url":"https://www.linkedin.com/in/alexander--kazakov/","logo":"/linkedin.svg"},
-        "Github": {"url":"https://github.com/AKSB-GP","logo":"/github.svg"}
+        "Linkedin": {"url":"linkedin.com/in/alvar-trojenborg-735b381a7","logo":"/linkedin.svg"},
+        "Github": {"url":"https://github.com/Alvartro","logo":"/github.svg"}
       }
     },
      {
