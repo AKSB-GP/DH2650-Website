@@ -20,7 +20,7 @@
         "Github": {"url":"https://github.com/AKSB-GP","logo":"/github.svg"}
       }
     }, {
-      "name": "Alexander Kazakov2",
+      "name": "Alvar Trojenborg",
       "responsibilities": [
         "Game Developer",
         "Web developer",
@@ -28,7 +28,7 @@
         "Animation"
       ],
       "image": {
-        "src": "/AK_profilepic.jpeg",
+        "src": "/",
         "alt": "Alexander Kazakov",
         "width": 250,
         "height": 250
@@ -40,7 +40,7 @@
       }
     },
      {
-      "name": "Alexander Kazakov3",
+      "name": "Rasmus Hugosson",
       "responsibilities": [
         "Game Developer",
         "Web developer",
@@ -48,8 +48,8 @@
         "Animation"
       ],
       "image": {
-        "src": "/AK_profilepic.jpeg",
-        "alt": "Alexander Kazakov",
+        "src": "/barrel_gold.png",
+        "alt": "Rasmus",
         "width": 250,
         "height": 250
       },
@@ -59,7 +59,7 @@
         "Github": {"url":"https://github.com/AKSB-GP","logo":"/github.svg"}
       }
     }, {
-      "name": "Alexander Kazakov",
+      "name": "Sofia Andersson",
       "responsibilities": [
         "Game Developer",
         "Web developer",
@@ -67,8 +67,8 @@
         "Animation"
       ],
       "image": {
-        "src": "/AK_profilepic.jpeg",
-        "alt": "Alexander Kazakov",
+        "src": "/barrel_gold.png",
+        "alt": "Sofia",
         "width": 250,
         "height": 250
       },
