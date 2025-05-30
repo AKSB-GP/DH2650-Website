@@ -16,13 +16,22 @@
       },
       "desc": "My primary responsibilities were implementing the player controller, creating, animating and implementing assets such as the characters and creating the website",
       "socials": {
-        "Linkedin": {"url":"https://www.linkedin.com/in/alexander--kazakov/","logo":"/linkedin.svg"},
-        "Github": {"url":"https://github.com/AKSB-GP","logo":"/github.svg"}
+        "Linkedin": {
+          "url": "https://www.linkedin.com/in/alexander--kazakov/",
+          "logo": "/linkedin.svg"
+        },
+        "Github": { "url": "https://github.com/AKSB-GP", "logo": "/github.svg" },
+        "Website": "https://alexanderkazakov.vercel.app/"
+
       }
-    }, {
+    },
+    {
       "name": "Alvar Trojenborg",
       "responsibilities": [
-       "Gameplay Programmer", "Game Flow Designer", "UI Designer", "Multiplayer System Developer"
+        "Gameplay Programmer",
+        "Game Flow Designer",
+        "UI Designer",
+        "Multiplayer System Developer"
       ],
       "image": {
         "src": "/AT_profilepic.webp",
@@ -32,47 +41,70 @@
       },
       "desc": "My main responsibilities included implementing and designing the game-loop (how the game progresses) and creating slick and informative HUD/UI text and menu elements on screen. Handling the main game-loop required a broader perspective on the project and understanding how each part interacted with each other. Furthermore I was also responsible for the  kill zone/respawning and the 4 player split screen functionality. What's more, I ideated many of the item functionalities and got the pleasure to help Sofia with implementing a few of the items. Finally, I also contributed with key concept art.",
       "socials": {
-        "Linkedin": {"url":"linkedin.com/in/alvar-trojenborg-735b381a7","logo":"/linkedin.svg"},
-        "Github": {"url":"https://github.com/Alvartro","logo":"/github.svg"}
+        "Linkedin": {
+          "url": "linkedin.com/in/alvar-trojenborg-735b381a7",
+          "logo": "/linkedin.svg"
+        },
+        "Github": {
+          "url": "https://github.com/Alvartro",
+          "logo": "/github.svg"
+        }
       }
     },
-     {
+    {
       "name": "Rasmus Hugosson",
       "responsibilities": [
-        "Game Developer",
-        "Web developer",
-        "Art",
-        "Animation"
+        "Game developer",
+        "Water system",
+        "Level design",
+        "Music and sound"
       ],
       "image": {
-        "src": "/barrel_gold.png",
+        "src": "/RH_profilepic.webp",
         "alt": "Rasmus",
         "width": 250,
         "height": 250
       },
-      "desc": "My primary responsibilities were implementing the player controller, creating, animating and implementing assets such as the characters and creating the website",
+      "desc": "I was responsible for the project structure, water system with floating platforms and procedural level generation. I also produced the music for the main menu and worked on sound effect for the game.",
       "socials": {
-        "Linkedin": {"url":"https://www.linkedin.com/in/alexander--kazakov/","logo":"/linkedin.svg"},
-        "Github": {"url":"https://github.com/AKSB-GP","logo":"/github.svg"}
+        "Linkedin": {
+          "url": "https://www.linkedin.com/in/rasmus-hugosson-23a138315/",
+          "logo": "/linkedin.svg"
+        },
+        "Github": {
+          "url": "https://github.com/rasmushugosson",
+          "logo": "/github.svg"
+        }
       }
-    }, {
+    },
+    {
       "name": "Sofia Andersson",
       "responsibilities": [
-        "Game Developer",
-        "Web developer",
-        "Art",
-        "Animation"
+        "Lead item designer",
+        "Item system",
+        "Implementing most items",
+        "Item models, textures & shaders",
+        "Barrel models & textures",
+        "Texturing platforms"
       ],
       "image": {
-        "src": "/barrel_gold.png",
+        "src": "/SA_profilepic.jpg",
         "alt": "Sofia",
         "width": 250,
         "height": 250
       },
-      "desc": "My primary responsibilities were implementing the player controller, creating, animating and implementing assets such as the characters and creating the website",
+      "desc": "My main responsibility was the item system, implementing a system to generate barrels and items. I was also the lead designer for implementing the items, I did all the 3D models and textures for them and the barrel. I implemented the code for all of the items, except the rubber duck and parrot which Alvar implemented. My cat Lava was great at keeping me company and helping me while I worked on the game. I implemented a easter egg where he as a 3D-model stands on the gold barrels while hunting a butterfly.",
       "socials": {
-        "Linkedin": {"url":"https://www.linkedin.com/in/alexander--kazakov/","logo":"/linkedin.svg"},
-        "Github": {"url":"https://github.com/AKSB-GP","logo":"/github.svg"}
+        "Linkedin": {
+          "url": "https://www.linkedin.com/in/sofia~andersson/",
+          "logo": "/linkedin.svg"
+        },
+        "Github": {
+          "url": "https://github.com/SofiaTilde",
+          "logo": "/github.svg"
+        },
+        "Website": "https://sofiatilde.se/",
+        "Dev Blog": "https://sofiatilde.se/kth/spel/"
       }
     }
   ]
