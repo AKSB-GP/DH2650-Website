@@ -21,21 +21,25 @@ const About = () => {
           </p>
           <p className="py-4">
             And worst of all, the curse seems to lock everyone who tries to
-            reach the treasure in an endless time loop. Just when you reach
-            the treasure, time rewinds back to when you were first
-            shipwrecked.
+            reach the treasure in an endless time loop. Just when you reach the
+            treasure, time rewinds back to when you were first shipwrecked.
           </p>
           <p className="py-4">
-            Now we follow 4 pirates; Red Rogers, Yellow Yates, Green Gabby,
-            and Pink Plunderer in their quest to reach the treasure.
+            Now we follow 4 pirates; Red Rogers, Yellow Yates, Green Gabby, and
+            Pink Plunderer in their quest to reach the treasure.
           </p>
           <p className="py-4">
             Can they be the first pirates to collect 10 points and break the
             curse? Or will they be dragged to the depths by the thousands of
             previous pirates who have already succumbed to the depths?
           </p>
-          <div className="">
-            <Image src={playerviewimage} alt="player view" className="w-full rounded-lg shadow-lg border-solid border-2"/>
+          <div >
+            <video width="1280" height="1980" preload="none" controls>
+              <source src="/game_trailer.mp4" type="video/mp4" />
+             
+              Your browser does not support the video tag.
+            </video>
+           
             <p className="pt-4">
               Our game is a local split-screen 3D-platformer party game set in
               an adventurous world full of treasure and pirates!
